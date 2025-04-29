@@ -1,2 +1,2 @@
 # javaapp
-for web application development
+For web application development
